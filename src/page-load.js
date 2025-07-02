@@ -11,7 +11,7 @@ headline.classList.add("headline");
 headline.textContent = "Amazing Burger Restaurant";
 
 description.classList.add("description");
-description.textContent = "Premier burger restaurant in town, only 9.99$ for burger and fries"
+description.textContent = "Premier burger restaurant in town, only 9.99$ for burger and fries";
 
 content.append(container);
 container.append(headline, description);
