@@ -121,5 +121,30 @@ image {
   width: 120px;
 }
 
+.info {
+  max-width: 600px;
+  margin-top: 50px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border: 3px solid white;
+  height: fit-content;
+  padding: 10px;
+  background-color: rgb(99, 88, 88);
+  border-radius: 10px;
+}
+
+#content h2 {
+  color: rgb(15, 14, 14);
+  font-weight: bold;
+  font-size: 2rem;
+  border: 3px solid black;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 5px;
+  background-color: antiquewhite;
+  margin: auto;
+  padding: 10px;
+}
+
 
   
